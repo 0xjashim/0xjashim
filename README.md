@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjashim&label=Profile%20views&color=0e75b6&style=flat" alt="0xjashim" /> </p>
 
 
-<a href="https://twitter.com/0xjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xjashim" height="30" width="40" /></a>
+<a href="https://twitter.com/0xjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xj4shim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashim" height="30" width="40" /></a>
 
 <!---
