@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @0xjashim
 - 👀 I’m interested in CYBER SECURITY
 - 🌱 I’m currently learning WEB APP SECURITY 
-- 💞️ I’m looking to collaborate on ...
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xjashim&theme=dark&show_icons=true" alt="0xjashim" /></p>
 
