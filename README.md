@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xjashim
+- 👋 Hi, I’m JASHIM UDDIN BHUIYAN aka @0xjashim
 - 👀 I’m interested in CYBER SECURITY
 - 🌱 I’m currently learning WEB APP SECURITY 
 
