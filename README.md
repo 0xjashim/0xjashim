@@ -10,7 +10,7 @@
 <a href="https://twitter.com/0xjashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xj4shim" height="20" width="30" /></a> <a href="https://linkedin.com/in/jashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashim" height="20" width="30" /></a>
 
  
-<img src="https://tryhackme-badges.s3.amazonaws.com/mrr0b0t.png" alt="TryHackMe">
+
 
 
 
