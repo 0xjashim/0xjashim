@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://0xPrial.com" target="_blank">
+  <a href="https://0xjashim.github.io" target="_blank">
     <img src="https://img.shields.io/website?label=0xPrial.com&style=for-the-badge&url=https://0xPrial.com" />
   </a>
 <a href="https://twitter.com/0xjashim" target="_blank">
