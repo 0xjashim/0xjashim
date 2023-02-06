@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://0xjashim.github.io" target="_blank">
-    <img src="https://img.shields.io/website?label=0xPrial.com&style=for-the-badge&url=https://0xPrial.com" />
+    <img src="https://img.shields.io/website?label=0xjashim.github.io&style=for-the-badge&url=https://0xjashim.github.io" />
   </a>
 <a href="https://twitter.com/0xjashim" target="_blank">
     <img src="https://img.shields.io/twitter/follow/0xjashim?label=Twitter&color=00acee&logo=twitter&style=for-the-badge" /></a>
